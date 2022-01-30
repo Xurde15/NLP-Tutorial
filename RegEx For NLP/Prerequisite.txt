@@ -1,0 +1,4 @@
+1. Install Python
+2. Install Jupyter notebook
+3. Install gitbash
+4. Watch RegEx in Python video by codebasics
